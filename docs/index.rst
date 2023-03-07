@@ -12,13 +12,13 @@ Hier findest du alle wichtigen Informationen zur AlpineMeteo WebApp.
 AlpineMeteo ermöglicht es dir Wetterdaten verschiedenster Messstationen 
 im Alpenraum in einheitlicher und übersichtlicher Art und Weise darzustellen.
 
-Wie funktionierts?
-******************
-
 AlpineMeteo sammelt die Messwerte der Wetterstationen von frei 
 verfügbaren Lawinenwarn- und Wetterdiensten verschiedener Regionen.
 
-Diese Messwerte dienen zur weiteren Verarbeitung, Visualisierung, Analyse, etc.. 
+Diese Messwerte dienen zur weiteren Verarbeitung, Visualisierung, Analyse, etc..
+Bitte beachte, dass wir nicht für die Korrektheit und Aktualität der Daten 
+garantieren und keinerlei Haftung für SChäden übernehmen, die aus der Nutzung
+der Daten oder der WebApp entstehen.
 
 Abdeckung
 ******************
