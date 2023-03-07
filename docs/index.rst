@@ -51,6 +51,10 @@ Momentan werden folgende Gebiete von AlpineMeteo abgedeckt:
 Quellen
 ******************
 
+AlpineMeteo zeigt grundsätzlich nur Daten an, die gemäss unseren Abklärungen "offen" sind. 
+Sollte AlpineMeteo jedoch irrtümlicherweise geschützte Daten anzeigen, bitten wir die 
+Rechteinhaber mit uns in Kontakt zu treten, sodass wir die Daten entfernen können.
+
 * LWD Tirol
 * LWD Vorarlberg
 * LWD Salzburg
