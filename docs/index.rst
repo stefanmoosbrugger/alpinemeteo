@@ -18,9 +18,6 @@ Wie funktionierts?
 AlpineMeteo sammelt die Messwerte der Wetterstationen von frei 
 verfügbaren Lawinenwarn- und Wetterdiensten verschiedener Regionen.
 
-.. image:: img/workflow.png
-
-
 Diese Messwerte dienen zur weiteren Verarbeitung, Visualisierung, Analyse, etc.. 
 
 Abdeckung
